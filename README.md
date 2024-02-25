@@ -1,8 +1,17 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Дизайн-системы:
 
-Currently, two official plugins are available:
+### https://mantine.dev/getting-started/
+  - https://mantine.dev/core/button/
+  - https://mantine.dev/hooks/use-color-scheme/
+  - https://mantine.dev/x/modals/
+  - https://mantine.dev/core/modal/
+  - https://mantine.dev/core/pagination/
+  - https://mantine.dev/core/progress/
+  - https://mantine.dev/x/dropzone/
+  - https://mantine.dev/x/tiptap/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### https://ant.design/components/button
+
+### https://mui.com/material-ui/react-button/
